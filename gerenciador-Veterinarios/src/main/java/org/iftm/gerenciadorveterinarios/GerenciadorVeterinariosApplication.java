@@ -8,6 +8,7 @@ public class GerenciadorVeterinariosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GerenciadorVeterinariosApplication.class, args);
+		//teste
 	}
 
 }
