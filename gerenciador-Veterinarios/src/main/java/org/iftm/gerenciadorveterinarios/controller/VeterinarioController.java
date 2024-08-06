@@ -2,8 +2,8 @@ package org.iftm.gerenciadorveterinarios.controller;
 
 import java.util.Optional;
 
-import org.iftm.gerenciadorveterinarios.model.Veterinario;
-import org.iftm.gerenciadorveterinarios.model.repository.VeterinarioRepository;
+import org.iftm.gerenciadorveterinarios.entities.Veterinario;
+import org.iftm.gerenciadorveterinarios.repository.VeterinarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

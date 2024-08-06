@@ -1,4 +1,4 @@
-package org.iftm.gerenciadorveterinarios.model;
+package org.iftm.gerenciadorveterinarios.entities;
 
 import java.math.BigDecimal;
 import java.time.Instant;
